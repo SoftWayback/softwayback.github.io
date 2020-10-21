@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shazam!
-subtitle: Lé bo mon site 1 ?
+subtitle: I just tested. Nobody murdered me, or put me in a potato, or fed me to birds.
 cover-img: /assets/img/zone.jpeg
 thumbnail-img: /assets/img/zone.jpeg
 share-img: /assets/img/zone.jpeg
