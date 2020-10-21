@@ -2,9 +2,9 @@
 layout: post
 title: Shazam!
 subtitle: Lé bo mon site 1 ?
-cover-img: /assets/img/zone.jpg
-thumbnail-img: /assets/img/zone.jpg
-share-img: /assets/img/zone.jpg
+cover-img: /assets/img/zone.jpeg
+thumbnail-img: /assets/img/zone.jpeg
+share-img: /assets/img/zone.jpeg
 tags: [Test]
 ---
 
