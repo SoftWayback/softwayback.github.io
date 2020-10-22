@@ -16,12 +16,11 @@ author: SoftWayback
 navbar-links:
   CV: "cv"
   A propos: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
   Github project:
     - This website: "https://github.com/SoftWayback/softwayback.github.io"
     - Lem-in: "https://github.com/SoftWayback/CPE_lemin_2019"
     - Automakefile: "https://github.com/SoftWayback/SYN_automakefile_2019"
+    - LiveTest: "aboutme"
 
 # --- Logo --- #
 
