@@ -44,9 +44,9 @@ round-avatar: true
 social-network-links:
   email: "softwayback@gmail.com"
   github: SoftWayback
-  twitter: SoftWayback
-#  reddit: yourname
   linkedin: yann-julitte-2b1242199
+  twitter: SoftWayback
+  reddit: SoftWayback
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
