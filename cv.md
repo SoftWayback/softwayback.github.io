@@ -4,7 +4,7 @@ title: CV
 subtitle: ET ça, ça c'est mon CV : 
 ---
 
-### My CV
+### Mon CV
 M'ouaip, ça marche pas de ouf...
 En attendant, voici des crèpes.
 
