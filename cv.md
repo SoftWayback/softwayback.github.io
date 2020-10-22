@@ -5,7 +5,7 @@ subtitle: There it is, there is my CV
 ---
 
 ### My CV
-HEH, TECHNICAL DIFFICULTIES
-![CV]('assets/img/404.jpg')
-![CV](https://drive.google.com/file/d/1TlgzWYq_TFdz7IovFyi5VjvzaghjGedL/view?usp=sharing)
+M'ouaip, ça marche pas de ouf...
+En attendant, voici des crèpes.
 
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
