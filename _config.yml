@@ -15,7 +15,7 @@ author: SoftWayback
 
 navbar-links:
   CV: "cv"
-  About me: "aboutme"
+  A propos: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
   Github project:
