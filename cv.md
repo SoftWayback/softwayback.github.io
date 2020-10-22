@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-subtitle: There it is, there is my CV
+subtitle: ET ça, ça c'est mon CV : 
 ---
 
 ### My CV

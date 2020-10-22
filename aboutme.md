@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Want do you whant to know ?
+title: A propos
+subtitle: Moi moi mon moi.
 ---
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my biopic](https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail) and it will answer **all** your questions.
+Pour être honnête, je ne sais pas vraiment quoi répondre pour le moment, alors pourquoi ne pas regarde [mon biopic](https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail), ce qui devrait répondres à **toutes** vos questions.
