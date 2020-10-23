@@ -8,4 +8,4 @@ subtitle: ET ça, ça c'est mon CV :
 M'ouaip, ça marche pas de ouf...
 En attendant, voici des crèpes.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![CV](https://github.com/SoftWayback/softwayback.github.io/blob/master/assets/img/cv.pdf?raw=true){: .mx-auto.d-block :}
