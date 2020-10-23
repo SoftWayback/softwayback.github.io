@@ -8,4 +8,4 @@ subtitle: ET ça, ça c'est mon CV :
 M'ouaip, ça marche pas de ouf...
 En attendant, voici le lapin de troies
 
-![CV](https://github.com/SoftWayback/softwayback.github.io/blob/master/assets/img/lapin.png?raw=true){: .mx-auto.d-block :}
+![CV](https://github.com/SoftWayback/softwayback.github.io/blob/master/assets/img/lapin.jpg?raw=true){: .mx-auto.d-block :}
